@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Assigment-6-12</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Bui Truong Giang</string>
+    <string name="nav_header_subtitle">20183516</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Calculator</string>
+    <string name="menu_areaconvert">Area Convert</string>
+    <string name="menu_currencyconvert">Currency Convert</string>
+    <string name="menu_lengthconvert">Length Convert</string>
+    <string name="menu_massconvert">Mass Convert</string>
+    <string name="menu_speedconvert">Speed Convert</string>
+</resources>
